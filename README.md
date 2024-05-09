@@ -4,20 +4,17 @@
 
 🚀 Technologies Used:
 
-    Python
-    Turtle Library
+-Python
+-Turtle Library
 
 💡 Applied Concepts:
-
-    Object-Oriented Programming
-    Collision Detection
-    Keyboard Event Control
-    Game Loop
+-Object-Oriented Programming
+-Collision Detection
+-Keyboard Event Control
+-Game Loop
 
 🏆 Achievements:
-
-    Successfully implemented the full functionality of the Pong game, including ball movement, paddle control, collision detection, and scoring.
+Successfully implemented the full functionality of the Pong game, including ball movement, paddle control, collision detection, and scoring.
 
 📈 Learnings and Next Steps:
-
-   I learned a lot throughout this project, honing my Python programming skills and strengthening my understanding of fundamental concepts. Moving forward, I'm excited to explore new areas of programming and tackle diverse projects that challenge my skills and creativity.
+I learned a lot throughout this project, honing my Python programming skills and strengthening my understanding of fundamental concepts. Moving forward, I'm excited to explore new areas of programming and tackle diverse projects that challenge my skills and creativity.
